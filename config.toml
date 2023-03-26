@@ -1,0 +1,4 @@
+baseURL = "https://realethantran.github.io/first-hugo-site"
+languageCode = "en-us"
+title = "Ethan's Hugo Site"
+theme = "gohugo-theme-ananke"
